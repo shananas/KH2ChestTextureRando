@@ -1,0 +1,109 @@
+name: Chest Rando
+originalAuthor: Shananas
+game: kh2
+description: Randomize the texture of every chest except TWTNW
+assets: 
+- name: obj/F_EX030_TR.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/TR/TRHE.texture
+- name: obj/F_EX030.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/DC.texture
+- name: obj/F_EX030_AL.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/PO.texture
+- name: obj/F_EX030_BB.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/BB.texture
+- name: obj/F_EX030_CA.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/XMAS.texture
+- name: obj/F_EX030_DC.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/TR.texture
+- name: obj/F_EX030_HE.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/TT.texture
+- name: obj/F_EX030_MU.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/AL.texture
+- name: obj/F_EX030_NM.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/MU.texture
+- name: obj/F_EX030_PO.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/HB.texture
+- name: obj/F_EX030_TT.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/NM.texture
+- name: obj/F_EX030_WI.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/CA.texture
+- name: obj/F_EX030_NM_XMAS.mdlx
+  method: binarc
+  source:
+  - name: tim_
+    type: ModelTexture
+    method: copy
+    source:
+    - name: obj/WI.texture
