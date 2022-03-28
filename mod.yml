@@ -10,7 +10,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/TR/TRHE.texture
+    - name: obj/TR/TRNM.texture
 - name: obj/F_EX030.mdlx
   method: binarc
   source:
@@ -18,7 +18,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/DC.texture
+    - name: obj/HE.texture
 - name: obj/F_EX030_AL.mdlx
   method: binarc
   source:
@@ -26,7 +26,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/PO.texture
+    - name: obj/XMAS.texture
 - name: obj/F_EX030_BB.mdlx
   method: binarc
   source:
@@ -34,7 +34,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/BB.texture
+    - name: obj/MU.texture
 - name: obj/F_EX030_CA.mdlx
   method: binarc
   source:
@@ -42,7 +42,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/XMAS.texture
+    - name: obj/DC.texture
 - name: obj/F_EX030_DC.mdlx
   method: binarc
   source:
@@ -50,7 +50,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/TR.texture
+    - name: obj/BB.texture
 - name: obj/F_EX030_HE.mdlx
   method: binarc
   source:
@@ -66,7 +66,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/AL.texture
+    - name: obj/CA.texture
 - name: obj/F_EX030_NM.mdlx
   method: binarc
   source:
@@ -74,7 +74,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/MU.texture
+    - name: obj/HB.texture
 - name: obj/F_EX030_PO.mdlx
   method: binarc
   source:
@@ -82,7 +82,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/HB.texture
+    - name: obj/TR.texture
 - name: obj/F_EX030_TT.mdlx
   method: binarc
   source:
@@ -90,7 +90,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/NM.texture
+    - name: obj/PO.texture
 - name: obj/F_EX030_WI.mdlx
   method: binarc
   source:
@@ -98,7 +98,7 @@ assets:
     type: ModelTexture
     method: copy
     source:
-    - name: obj/CA.texture
+    - name: obj/AL.texture
 - name: obj/F_EX030_NM_XMAS.mdlx
   method: binarc
   source:
